@@ -1,0 +1,25 @@
+{
+  "slug": "amenland",
+  "name": "Amenland",
+  "version": "1.0.0",
+  "license": "GPL-3.0-only",
+  "brand": "Radio Zwijn",
+  "author": "Jan Willem Penterman",
+  "authorEmail": "jw@meneer.net",
+  "authorUrl": "https://github.com/Genoil",
+  "pluginUrl": "https://github.com/Genoil/amenland",
+  "manualUrl": "https://github.com/Genoil/amenland",
+  "sourceUrl": "https://github.com/Genoil/amenland",
+  "donateUrl": "https://www.paypal.com/donate/?business=B6FVZKEP4SG66&no_recurring=1&item_name=a.k.a.+Genoil%2C+for+his+work+on+the+Amenator%21&currency_code=EUR",
+  "changelogUrl": "https://github.com/Genoil/amenland",
+  "modules": [
+    {
+      "slug": "Amenator",
+      "name": "Amenator",
+      "description": "One-stop Amen chopper!",
+      "tags": [
+        "Drum"
+      ]
+    }
+  ]
+}

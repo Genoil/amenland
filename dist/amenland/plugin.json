@@ -1,0 +1,25 @@
+{
+  "slug": "amenland",
+  "name": "Amenland",
+  "version": "2.0.0",
+  "license": "proprietary",
+  "brand": "Amenland",
+  "author": "Jan Willem Penterman",
+  "authorEmail": "jw@meneer.net",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "https://github.com/Genoil/amenland",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "Amenator",
+      "name": "Amenator",
+      "description": "One-stop Amen chopper!",
+      "tags": [
+        "Drum"
+      ]
+    }
+  ]
+}

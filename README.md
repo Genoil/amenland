@@ -6,7 +6,7 @@ Amenland currently features just a single module: Amenator
 
 ## Amenator
 
-The Amenator VCV Rack plugin can be used to output an unlimited amount of variations of the Amen breakbeat. For more information about the Amen break see the [Wikipedia entry on the Amen break](https://en.wikipedia.org/wiki/Amen_break). It takes away the (tedious) task of slicing up the sample and speeding it up to match the song's BPM. It relies on external modules for clock, sequencing and volume envelope. Output is in mono-mox or stereo.
+The Amenator VCV Rack plugin can be used to output an unlimited amount of variations of the Amen breakbeat. For more information about the Amen break see the [Wikipedia entry on the Amen break](https://en.wikipedia.org/wiki/Amen_break). It takes away the (tedious) task of slicing up the sample and speeding it up to match the song's BPM. It relies on external modules for clock, sequencing and volume envelope. Output is in mono-mix or stereo.
 
 [Click here to watch a brief demonstration of the Amenator](https://youtu.be/UBBTf_88XvE)
 
@@ -29,12 +29,12 @@ The Amenator VCV Rack plugin can be used to output an unlimited amount of variat
 + **?**: There are no other outputs. Or are there?
 
 ## Radio Zwijn
-The Amenland plugin and the Amenator are brought to you by [Radio Zwijn](https://www.youtube.com/channel/UCq4lQI_iIkHyHzWCdkAC6Fg). Thanks to my buddies at Radio Zwijn for providing me with a feedback and various valuable assets used in the production!
+The Amenland plugin and the Amenator are brought to you by [Radio Zwijn](https://www.youtube.com/channel/UCq4lQI_iIkHyHzWCdkAC6Fg). Thanks to my buddies at Radio Zwijn for providing me with feedback and various valuable assets used in the production!
 
 ## Licenses
 All source code in this repository is copyright © 2022 Jan Willem Penterman/Genoil and licensed under GNU GPLv3
 
-All graphics including the Radio Zwijn logo, panels and components are copyright © 2022 Jan Willem Penterman/Genoil and may not be used in derivative works.
+All graphics including the panels and components are copyright © 2022 Jan Willem Penterman/Genoil and may not be used in derivative works. Radio Zwijn logo copyright © Radio Zwijn.
 
 ## Donate
 Altough the Amenator is provided completely free of charge, you're welcome to buy me a beer:
